@@ -1,0 +1,8 @@
+{
+  "name": "The Almond School",
+  "description": "The Almond School - Nurturing Minds, Shaping Futures. Playgroup, Nursery, Junior KG & Senior KG admissions for 2026-27.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
